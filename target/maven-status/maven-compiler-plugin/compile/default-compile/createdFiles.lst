@@ -1,0 +1,5 @@
+com\grr\bdapp\elfoAPI\exception\data\DataCannotBeAccessedException.class
+com\grr\bdapp\Repositorios\ArmazemRepositorio.class
+com\grr\bdapp\elfoAPI\exception\ElfoException.class
+com\grr\bdapp\elfoAPI\data\IRepositorio.class
+com\grr\bdapp\elfoAPI\data\IIdentificable.class
